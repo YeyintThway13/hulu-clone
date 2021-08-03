@@ -10,7 +10,7 @@ export default function Home(props) {
     <div className="">
       <Head>
         <title>Hulu Clone</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="icon" href="/huluLogo.ico" />
       </Head>
       <Header></Header>
       <Nav />
